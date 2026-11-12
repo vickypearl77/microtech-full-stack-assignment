@@ -1,0 +1,94 @@
+/* General page styling */
+body {
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 20px;
+    line-height: 1.8;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    color: #263b55;
+    font-size: 40px;
+}
+
+/* Section headings */
+h2 {
+    color: #1682ad;
+}
+
+/* Subtitle */
+.subtitle {
+    text-align: center;
+    color: #7f8c8d;
+}
+
+/* Paragraphs */
+p {
+    font-size: 17px;
+}
+
+/* Profile picture */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+}
+
+/* Navigation */
+nav {
+    text-align: center;
+    margin: 25px;
+}
+
+/* Links */
+a {
+    color: #1682ad;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #263b55;
+}
+
+/* Dividers */
+hr {
+    border: 1px solid #dddddd;
+    margin: 25px 0;
+}
+
+/* Sections */
+section {
+    margin-bottom: 30px;
+}
+
+/* Friend request form */
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input, select, textarea {
+    padding: 10px;
+    width: 90%;
+    margin: 8px 0;
+}
+
+/* Submit button */
+button {
+    background-color: #1682ad;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Footer */
+footer {
+    color: #7f8c8d;
+    margin-top: 30px;
+    text-align: center;
+}
